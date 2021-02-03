@@ -5,4 +5,6 @@
 
 final data shown in gui.py
 
-all data in pickles
+all data in pickles, no need to run webscrap (it takes about 17 hours to download complete atocentrum's database
+
+gui + 
